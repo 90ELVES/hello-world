@@ -2,6 +2,6 @@
 
 Olá pessoal.
 
-Estou iniciando na área de programação,quero contribuir com a comunidade.Forencer informações,trocar ideias e aprendendo com voçês.
+Estou iniciando na área de programação,quero contribuir com a comunidade.Fonecer informações,trocar ideias e aprender com voçês.
 
 
